@@ -7,6 +7,7 @@
   * Método do Ponto Fixo.
   * Método de Newton-Raphson.
   * Método da Secante.
+  * Método de Muller
   
 - Sistemas de Equações Algébricas Lineares:
     * Método da eliminação de Gauss.
@@ -22,8 +23,11 @@
     * Interpolação inversa.
     
 - Integração Numérica:
-    * Regra dos trapézios (sem e com repetição).
-    * Regra 1/3 de Simpson (sem e com repetição).
-    * Regra 3/8 de Simpson.
+    * Método do Retângulo.
+    * Método do Ponto Central.
+    * Método do Trapézio.
+    * Método 1/3 de Simpson.
+    * Método 3/8 de Simpson.
+    * Método da Quadratura de Gauss
     
 - Equações Diferenciais Ordinárias:
