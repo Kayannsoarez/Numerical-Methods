@@ -7,7 +7,7 @@
   * Método do Ponto Fixo.
   * Método de Newton-Raphson.
   * Método da Secante.
-  * Método de Muller
+  * Método de Muller.
   
 - Sistemas de Equações Algébricas Lineares:
     * Método da eliminação de Gauss.
